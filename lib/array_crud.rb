@@ -30,7 +30,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+   a = ["wow", "crash", "boom", "green", "am"]
+   a
   
 end
 
