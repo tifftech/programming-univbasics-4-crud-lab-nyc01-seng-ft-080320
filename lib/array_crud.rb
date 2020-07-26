@@ -46,5 +46,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
+  a = ["wow", "crash", "boom", "totally", "am"]
+  a.at(4)
 
 end
