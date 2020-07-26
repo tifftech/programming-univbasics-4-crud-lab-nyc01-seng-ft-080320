@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(array, element)
   ["pink","grey","green","yellow"]
   a.push ("blue")
-  
 end
 
 def add_element_to_start_of_array(array, element)
